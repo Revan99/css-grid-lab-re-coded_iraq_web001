@@ -16,7 +16,7 @@ body {
 }
 
 .grid-item {
-  margin: auto;
+  margin: 0 auto;
   background-color: grey;
   border: 1px solid black;
   grid-template: repeat(4, 1fr) / repeat(3, 1fr)
