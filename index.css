@@ -1,6 +1,6 @@
 html,
 body {
-  margin: 0;
+  margin: auto;
   padding: 0;
 }
 
@@ -11,7 +11,7 @@ body {
   display: grid;
   grid-template: auto/ 33% 33% 33%;
   grid-gap: 5px;
-  margin: auto;
+  
 }
 
 .grid-item {
